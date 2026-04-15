@@ -111,8 +111,8 @@ ACTIVE_SESSIONS = ['london', 'new_york']  # Trade only during these sessions
 # ========================
 TELEGRAM_CONFIG = {
     'enabled': True,
-    'bot_token': '8459991077:AAF916YLDSrm79v6gFSL-4dooqeUi1I-dPg',  # Get from @BotFather
-    'chat_id': '7278027818',      # Your Telegram chat ID
+    'bot_token': 'BotToken-dPg',  # Get from @BotFather
+    'chat_id': 'Chat ID',      # Your Telegram chat ID
     'send_on_trade': True,
     'send_on_error': True,
     'send_daily_summary': True,
